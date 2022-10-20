@@ -172,14 +172,14 @@ margin: 10px;
     box-sizing: border-box;
     border: 2px solid #000000;
     border-radius: 10px;
-    background: linear-gradient(#79C44F, white);
+    background: linear-gradient(28417C, white);
 }
 .itens li:hover {
-    border: 3px solid #0B7210;
-    background: linear-gradient(white, #79C44F);
+    border: 3px solid black;
+    background: linear-gradient(white,28417C);
 }
 .itens li:active {
-    border-color: #79C44F;
+    border-color: #28417C;
 }
 .itens li:hover h2 {
     font-size: 1.5em;
