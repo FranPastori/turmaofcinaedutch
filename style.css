@@ -23,7 +23,8 @@ nav li {
     display: inline;
     text-align: left;
     background-color:#EF197B;
-    margin: 0 0 .30rem .30rem;
+    margin: 10px;
+    padding: 10px;
 }
 
 nav a {
