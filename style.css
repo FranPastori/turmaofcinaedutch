@@ -148,3 +148,8 @@ height: 200px;
 background-color:#28417C ;
 
 }
+.conteiner{
+
+    display: flex;
+    justify-content: center;
+}
