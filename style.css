@@ -1,0 +1,141 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #EF197B;
+}
+header {
+    
+    background-color:#FFDD6C;
+    padding: 20px 0;
+}
+.logo{
+    display: inline-block;
+    width: 200px;
+    height: 200px;;
+
+}
+nav {
+    display: inline-block;
+    width: 50vw;
+    top: 100px;
+    right:0;
+}
+nav li {
+    text-align: left;
+    margin: 0 0 .20rem .20rem;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #EF197B;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: black;
+    text-decoration: underline;
+
+}
+
+.caixa {
+    width: 80vw;
+    position: relative;
+    margin: 0 auto
+}
+
+.banner {
+    width: 100%;
+}
+main {
+    list-style: none;
+    background-color:#EF197B;
+    ;
+    text-decoration: none;
+    padding: 25px;
+}
+p {
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}
+h1,h2,h3{
+    font-size: 22px;
+    color: #EF197B;
+}
+#olamundo{
+    color: black;
+    text-align: center;
+    font-size: 90px;
+    background-color: #FF80BA;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 0 0 2vw 0;
+}
+.competencias{
+    padding: 2vw;
+}
+.habilidades{
+    padding: 2vw;
+}
+.divisao{
+    text-align:justify;
+    border: 2px solid black;
+    background-color: #FF80BA;
+    border-radius: 20px;   
+    margin: 2vw;
+    padding: 20px;
+    
+
+}
+.momentos {
+    background-color: #FFDD6C;
+     text-align:justify;
+    margin: auto;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+.elementoexterno{
+    display: inline-block;
+    margin: 1em 5vw;
+    padding: 2vw;
+    width : 70vw;
+    height: 41vw;
+    max-width: 1094px;
+    max-width: inherit;
+}
+.Titulo-centralizado{
+     text-align:center;
+
+}
+
+/* Contato*/
+
+form {
+    margin: 20px;
+}
+
+.input-padrao {
+    display: block;
+    margin: 10px;
+    padding: 10px 25px 10px 25px;
+    width: 50%;
+    font-size: 20px;
+}
+form label {
+    font-size: 20px;
+    margin: 0 0 10px;
+    padding: 10px 25px 10px 25px;
+
+}
+.enviar{
+    background-color: #FFDD6C;
+    display: block;
+    margin: 10px;
+    padding: 10px 25px 10px 25px;
+    width: 50%;
+    font-size: 20px;
+}
+
