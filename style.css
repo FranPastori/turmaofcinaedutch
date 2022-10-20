@@ -14,7 +14,7 @@ header {
 
 }
 nav {
-    display: inline-block;
+    position: absolute;
     width: 50vw;
     top: 100px;
     right:0;
